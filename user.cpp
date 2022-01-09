@@ -69,7 +69,7 @@ void register_vaccine()
 	cin >> phone_no;
 	
 	string vaccine;
-	cout << "\n\t\t\t Select Vaccine\n\t\t\t Covishield  \n\t\t\t Covaxine \n\t\t\t Pfizer\n\t\t\t Give proper name of vaccine you want: ";
+	cout << "\n\t\t\t Select Vaccine:\n\t\t\t Covishield  \n\t\t\t Covaxine \n\t\t\t Pfizer\n\t\t\t Give proper name of vaccine you want: ";
 	cin >> vaccine;
 
 	User *found = Queuee.search(id); // search for alredy exitsing id defined in citizen info
