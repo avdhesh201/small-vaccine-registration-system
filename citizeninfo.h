@@ -44,7 +44,7 @@ class CitizenList
 	User *front;
 
 public:
-	CitizenList()   // mananges position of a particular nodde in the entire queue
+	CitizenList()   // mananges position of a particular node in the entire queue
 	{
 		/*Constructor*/
 		front = nullptr;
