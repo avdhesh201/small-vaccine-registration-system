@@ -19,7 +19,7 @@ int main()
 		cout << "\t\t      Vaccination Registration System " << endl;
 		cout << "\t\t-------------------------------------------" << endl;
 		cout << "\n\t\t\t MAIN MENU" << endl; // MAIN MENU
-		cout << "\n\t\t\t1. Registeration for vaccine." << endl;
+		cout << "\n\t\t\t1. Registration for vaccine." << endl;
 		cout << "\n\t\t\t2. Login as Citizen." << endl;
 
 		cout << "\n\t\t\tEnter 0 to exit." << endl;
